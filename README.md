@@ -293,8 +293,23 @@ Enforced in the backend (and mirrored in the frontend forms):
 12. **A rejected voucher is final.** The employee can view the reason but cannot edit and resubmit it; they create a new voucher instead.
 
 ## Screenshots
+### Login
+![Login](screenshots/login.png)
 
-Add screenshots to a `screenshots/` folder and link them here.
+### Employee Dashboard
+![Employee Dashboard](screenshots/employee-dashboard.png)
+
+### Create Voucher
+![Create Voucher](screenshots/create-voucher.png)
+
+### Director Dashboard
+![Director Approval](screenshots/director-dashboard.png)
+
+### All Vouchers with Search and Filters
+![All Vouchers](screenshots/director-all-vouchers.png)
+
+### Approved Voucher
+![Approved Voucher](screenshots/approved-voucher.png)
 
 ## Possible Future Improvements
 
